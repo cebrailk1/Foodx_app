@@ -9,11 +9,6 @@ function AboutUs() {
       bio: 'x',
     },
     {
-      name: 'Fam',
-      role: 'x',
-      bio: 'x',
-    },
-    {
       name: 'Cebo',
       role: 'x',
       bio: 'x',
